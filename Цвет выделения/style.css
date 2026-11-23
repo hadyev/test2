@@ -1,0 +1,9 @@
+#parent ::selection {
+    color: blueviolet;
+    background-color: black;
+}
+
+#parent {
+    width: 300px;
+    text-align: justify;
+}
