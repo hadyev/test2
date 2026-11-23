@@ -1,0 +1,10 @@
+a {
+    pointer-events: none;
+    text-decoration: none;
+    color: rgb(29, 88, 177);
+}
+
+#parent {
+    cursor: not-allowed;
+    text-decoration: none;
+}
