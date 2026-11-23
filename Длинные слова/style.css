@@ -1,0 +1,15 @@
+#parent {
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    word-break: break-all;
+}
+
+
+#parent2 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    overflow-wrap: break-word;
+    margin-top: 20px;
+}
