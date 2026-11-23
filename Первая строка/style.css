@@ -1,0 +1,6 @@
+#parent ::first-line {
+    width: 200px;
+    text-align: justify;
+    color: red;
+    margin: 0 auto;
+}
