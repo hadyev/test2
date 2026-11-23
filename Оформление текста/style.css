@@ -1,0 +1,23 @@
+#parent {
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+    text-decoration-line: underline;
+}
+
+#parent2 {
+    text-decoration-style: dotted;
+	text-decoration-color: red;
+	text-decoration-line: underline;
+}
+
+#parent3 {
+    text-decoration-style: dashed;
+	text-decoration-color: red;
+	text-decoration-line: underline;
+}
+
+#parent4 {
+    text-decoration: double;
+	text-decoration-color: red;
+	text-decoration-line: underline;
+}
