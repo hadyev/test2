@@ -1,0 +1,10 @@
+table {
+    width: 400px;
+    table-layout: fixed;
+}
+
+td {
+	border: 1px solid black;
+	background-color: #f3f3f3;
+	text-align: center;
+}
