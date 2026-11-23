@@ -1,0 +1,9 @@
+#parent {
+    text-align: left;
+    text-align: justify;
+}
+
+#text {
+    text-align: justify;
+    text-align-last: right;
+}
