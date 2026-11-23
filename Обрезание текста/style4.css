@@ -1,0 +1,11 @@
+#parent {
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+}
+
+#parent p {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
