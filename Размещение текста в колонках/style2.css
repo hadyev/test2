@@ -1,0 +1,5 @@
+#parent {
+    width: 1000px;
+    column-count: 4;
+    border: 1px solid red;
+}
