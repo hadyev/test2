@@ -1,0 +1,12 @@
+table {
+	width: 400px;
+    height: 150px;
+	empty-cells: hide;
+    border: 1px solid red
+}
+
+td {
+	border: 1px solid black;
+	background-color: #f3f3f3;
+	text-align: center;
+}
