@@ -1,0 +1,7 @@
+button {
+    pointer-events: none;
+    background-color: rgb(26, 17, 105);
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 50px;
+}
