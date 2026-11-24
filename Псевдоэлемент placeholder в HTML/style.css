@@ -1,0 +1,17 @@
+#parent textarea {
+    color: green;
+}
+
+#parent2 textarea {
+    width: 200px;
+    height: 100px;
+    color: green;
+}
+
+#parent3 textarea {
+    color: green;
+}
+
+#parent3 input {
+    color: rgb(252, 172, 0);
+}
