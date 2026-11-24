@@ -1,0 +1,4 @@
+#parent2 :disabled {
+    border: 1px solid red;
+	box-shadow: 0 0 3px rgb(94, 5, 5);
+}
