@@ -1,0 +1,17 @@
+textarea {
+    resize: horizontal;
+    width: 120px;
+    height: 120px;
+}
+
+#parent1 textarea {
+    resize: vertical;
+    width: 180px;
+    height: 120px;
+}
+
+#parent2 textarea {
+    resize: none;
+    width: 200px;
+    height: 130px;
+}
