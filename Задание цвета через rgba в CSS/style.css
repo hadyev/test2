@@ -1,0 +1,17 @@
+#parent {
+    background-image: url("bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    padding: 30px;
+}
+
+#elem {
+    width: 300px;
+    height: 200px;
+    border: 20px solid rgba(0, 128, 0.5);
+    padding: 10px;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgba(255, 0, 0, 0.5);
+}
