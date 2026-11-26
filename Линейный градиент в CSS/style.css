@@ -1,0 +1,33 @@
+#parent {
+    background: linear-gradient(rgb(255, 255, 0), rgb(219, 219, 164));
+    width: 200px;
+    height: 200px;
+}
+
+#parent2 {
+    background: linear-gradient(50deg, yellow, rgb(202, 211, 161));
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+}
+
+#parent3 {
+    background: linear-gradient(100deg, rgb(204, 204, 157), yellow);
+    width: 200px;
+    height: 200px;
+    margin-top: 40px;
+}
+
+#parent4 {
+    background: linear-gradient(100deg, rgb(252, 174, 174),red);
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+}
+
+#parent5 {
+    background: linear-gradient(rgb(233, 229, 229) 90px,red 5px);
+    width: 200px;
+    height: 200px;
+    margin-top: 60px;
+}
