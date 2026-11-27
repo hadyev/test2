@@ -1,0 +1,26 @@
+#elem {
+	background: radial-gradient(aqua, blue);
+	width: 200px;
+	height: 200px;
+}
+
+#elem2 {
+    background: radial-gradient(at 50% 0, aqua, blue);
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+}
+
+#elem3 {
+    background: radial-gradient(circle, aqua, blue);
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+}
+
+#elem4 {
+    background: radial-gradient(circle closest-side at 35px 45px, aqua, blue);
+    width: 200px;
+    height: 200px;
+    margin-top: 80px;
+}
