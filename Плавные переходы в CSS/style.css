@@ -49,3 +49,15 @@
 #elem4:hover {
 	width: 1000px;
 }
+
+#elem5 {
+    width: 200px;
+    height: 30px;
+    border: 1px solid black;
+    margin-top: 100px;
+}
+
+#elem5:hover {
+    border: 1px solid rgb(255, 0, 255);
+    color: rgb(19, 201, 116);
+}
