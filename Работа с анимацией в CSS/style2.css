@@ -1,0 +1,19 @@
+#elem2 {
+    width: 150px;
+    height: 150px;
+    border: 1px solid red;
+
+    animation-name: ds;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes ds {
+    from {
+        background-color: #ffb3b3;
+    }
+    to {
+        background-color: red;
+    }
+}
