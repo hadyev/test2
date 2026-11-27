@@ -1,0 +1,51 @@
+#elem {
+    width: 200px;
+    height: 100px;
+    border: 1px solid red;
+    background-color: rgb(209, 84, 84);
+    transition: background-color 1s;
+}
+
+#elem:hover {
+    background-color: red;
+}
+
+#elem2 {
+    width: 200px;
+    height: 100px;
+    border: 1px solid red;
+    background-color: brown;
+    transition: background-color 1s;
+    color: black;
+    margin-top: 20px;
+}
+
+#elem2:hover {
+    color: white;
+    background-color: red;
+}
+
+#elem3 {
+	transition-duration: 2s;
+	transition-property: width;
+    width: 200px;
+	height: 100px;
+    margin-top: 40px;
+    border: 1px solid red;
+}
+
+#elem3:hover {
+	width: 1000px;
+}
+
+#elem4 {
+	transition: width 2s ease 3s;
+	width: 200px;
+	height: 100px;
+    border: 1px solid red;
+    margin-top: 80px;
+}
+
+#elem4:hover {
+	width: 1000px;
+}
