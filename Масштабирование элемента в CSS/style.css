@@ -1,0 +1,12 @@
+#elem {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    margin: 50px;
+
+    transition: transform 1s;
+}
+
+#elem:hover {
+    transform: scale(1.5);
+}
