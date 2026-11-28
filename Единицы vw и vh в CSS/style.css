@@ -1,0 +1,13 @@
+div {
+    width: 50vw;
+    height: 50vh;
+    margin: 30vh auto;
+    border: 1px solid red;
+}
+
+#parent {
+    width: 70vw;
+    height: 70vw;
+    margin: 50vh auto;
+    border: 1px solid red;
+}
