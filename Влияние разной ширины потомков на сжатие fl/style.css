@@ -1,0 +1,21 @@
+.parent {
+    display: flex;
+    flex-direction: row;
+    width: 1700px;
+    height: 200px;
+    border: 1px solid red;
+    margin: 10px;
+    margin-left: 80px;
+}
+
+.child {
+    width: 100px;
+    height: 200px;
+    border: 1px solid green;
+}
+
+#child2 {
+    width: 150px;
+    height: 200px;
+    border: 1px solid green;
+}
